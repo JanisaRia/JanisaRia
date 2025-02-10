@@ -6,7 +6,7 @@ I am a pre-final year Computer Science and Engineering student at SRM Institute 
 I am actively seeking **internships, collaborations, and research opportunities** in **data analytics, machine learning, fraud detection, and deep learning applications**.
 
 <div align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Data Science GIF" />
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Data Science GIF" />
 </div>
 
 ## 🔬 Projects
