@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a pre-final year Computer Science and Engineering student at SRM Institute of Science and Technology, specializing in Big Data Analytics. My passion lies in **Machine Learning, Deep Learning, AI-driven solutions, and Data Analytics**, with experience in **Neural Networks, Convolutional Neural Networks (CNN), k-means clustering, Bayesian Networks, and Natural Language Processing (NLP)**. I am constantly exploring **AI applications, data-driven decision-making, and cloud computing** to develop innovative solutions.  
 
-I am actively seeking **internships, collaborations, and research opportunities** in **data analytics, machine learning, fraud detection, and deep learning applications**.
+I am actively seeking **internships, collaborations, and research opportunities** in **data analytics, machine learning and deep learning applications**.
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Data Science GIF" />
@@ -31,11 +31,12 @@ I am actively seeking **internships, collaborations, and research opportunities*
 
 ## 🎓 Certifications
 - **Database Management Systems**
-- **Java Tools**
+- **Programming in Java**
 - **Alteryx Designer Core Certification**
-- **Python Essentials 1**
-- **Data Analytics Essentials**
-- **Currently Preparing for AWS Cloud Practitioner Certification**
+- **Python**
+- **Data Analytics**
+- **Neural Networks**
+- **Machine Learning**
 
 ## 📚 Publications
 - **"Engineering an AI Bank Assistant using RAG"**
