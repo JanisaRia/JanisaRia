@@ -14,8 +14,9 @@ I am actively seeking **internships, collaborations, and research opportunities*
 - **Polar Ice Melting Prediction:** Hybrid SARIMA + LSTM + Random Forest model for predicting Arctic ice melt and freeze patterns.
 - **Handwritten Digit Recognition:** CNN-based digit classifier built with Keras and TensorFlow.
 - **VPN UI Application:** Java Swing-based interface for VPN connection simulation.
-- **Image Colorization using GAN:** High-resolution image colorization model integrating MC-GAN and residual learning techniques.
+- **Image Colorization :** High-resolution image colorization model using ResNet-34 Encoder and residual learning techniques.
 - **Money Laundering Detection using GNN:** Graph-based community detection, cycle analysis, and collinearity analysis to identify illicit financial patterns.
+- **Pico Prak Game Clone:***  A console-based C++ clone of Pico Park featuring real-time multiplayer mechanics, obstacles, and level progression.
 
 ## 🛠 Tech Stack & Tools
 <div align="center">
