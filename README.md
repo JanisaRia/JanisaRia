@@ -16,7 +16,7 @@ I am actively seeking **internships, collaborations, and research opportunities*
 - **VPN UI Application:** Java Swing-based interface for VPN connection simulation.
 - **Image Colorization :** High-resolution image colorization model using ResNet-34 Encoder and residual learning techniques.
 - **Money Laundering Detection using GNN:** Graph-based community detection, cycle analysis, and collinearity analysis to identify illicit financial patterns.
-- **Pico Prak Game Clone:***  A console-based C++ clone of Pico Park featuring real-time multiplayer mechanics, obstacles, and level progression.
+- **Pico Prak Game Clone:**  A console-based C++ clone of Pico Park featuring real-time multiplayer mechanics, obstacles, and level progression.
 
 ## 🛠 Tech Stack & Tools
 <div align="center">
